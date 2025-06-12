@@ -1,0 +1,16 @@
+ body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 15px;
+            color: gray;
+        }
+        li {
+            font-size: smaller;
+            font-style: italic;
+            font-weight: normal;
+        }
+        a {
+            color: blueviolet;
+        }
+        .bold {
+            font-weight: bold;
+        }
